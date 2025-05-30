@@ -1,0 +1,51 @@
+,name,prepTimeMinutes,cookTimeMinutes,servings,difficulty,cuisine,caloriesPerServing,rating,reviewCount
+0,Classic Margherita Pizza,20,15,4,Easy,Italian,300,4.6,98
+1,Vegetarian Stir-Fry,15,20,3,Medium,Asian,250,4.7,26
+2,Chocolate Chip Cookies,15,10,24,Easy,American,150,4.9,13
+3,Chicken Alfredo Pasta,15,20,4,Medium,Italian,500,4.9,82
+4,Mango Salsa Chicken,15,25,3,Easy,Mexican,380,4.9,63
+5,Quinoa Salad with Avocado,20,15,4,Easy,Mediterranean,280,4.4,59
+6,Tomato Basil Bruschetta,15,10,6,Easy,Italian,120,4.7,95
+7,Beef and Broccoli Stir-Fry,20,15,4,Medium,Asian,380,4.7,58
+8,Caprese Salad,10,0,2,Easy,Italian,200,4.6,82
+9,Shrimp Scampi Pasta,15,20,3,Medium,Italian,400,4.3,5
+10,Chicken Biryani,30,45,6,Medium,Pakistani,550,5.0,32
+11,Chicken Karahi,20,30,4,Easy,Pakistani,420,4.8,68
+12,Aloo Keema,25,35,5,Medium,Pakistani,380,4.6,53
+13,Chapli Kebabs,30,20,4,Medium,Pakistani,320,4.7,98
+14,Saag (Spinach) with Makki di Roti,40,30,3,Medium,Pakistani,280,4.3,86
+15,Japanese Ramen Soup,20,25,2,Medium,Japanese,480,4.9,38
+16,Moroccan Chickpea Tagine,15,30,4,Easy,Moroccan,320,4.5,50
+17,Korean Bibimbap,30,20,2,Medium,Korean,550,4.9,56
+18,Greek Moussaka,45,45,6,Medium,Greek,420,4.3,26
+19,Butter Chicken (Murgh Makhani),30,25,4,Medium,Pakistani,480,4.5,44
+20,Thai Green Curry,20,30,4,Medium,Thai,480,4.2,18
+21,Mango Lassi,10,0,2,Easy,Indian,180,4.7,15
+22,Italian Tiramisu,30,0,6,Medium,Italian,350,4.6,0
+23,Turkish Kebabs,25,15,4,Easy,Turkish,280,4.6,78
+24,Blueberry Banana Smoothie,10,0,1,Easy,Smoothie,220,4.8,30
+25,Mexican Street Corn (Elote),15,15,4,Easy,Mexican,180,4.6,2
+26,Russian Borscht,30,40,6,Medium,Russian,220,4.3,39
+27,South Indian Masala Dosa,40,20,4,Medium,Indian,320,4.4,96
+28,Lebanese Falafel Wrap,15,10,2,Easy,Lebanese,400,4.7,84
+29,Brazilian Caipirinha,5,0,1,Easy,Brazilian,150,4.4,55
+30,Spanish Patatas Bravas,20,30,4,Easy,Spanish,240,4.5,21
+31,Vietnamese Fresh Spring Rolls,15,10,4,Easy,Vietnamese,180,4.2,97
+32,Mediterranean Quinoa Salad,20,15,6,Easy,Mediterranean,220,4.8,83
+33,Japanese Matcha Green Tea Ice Cream,30,15,4,Medium,Japanese,280,4.2,87
+34,Brazilian Chocolate Brigadeiros,20,10,8,Easy,Brazilian,120,4.2,65
+35,Mexican Chicken Enchiladas,25,20,4,Medium,Mexican,380,4.1,67
+36,Thai Coconut Shrimp Curry,20,15,3,Medium,Thai,420,4.9,85
+37,Greek Spanakopita,30,40,8,Medium,Greek,280,4.6,19
+38,Moroccan Couscous Salad,15,10,6,Easy,Moroccan,260,4.1,19
+39,Classic Mojito,10,0,1,Easy,Cocktail,150,4.7,89
+40,Caprese Bruschetta,15,5,6,Easy,Italian,150,4.2,38
+41,Teriyaki Chicken Stir-Fry,15,10,4,Easy,Japanese,320,4.6,95
+42,Mango Avocado Salsa,10,0,4,Easy,Mexican,90,4.1,78
+43,Shrimp and Asparagus Stir-Fry,15,10,3,Easy,Asian,250,4.7,13
+44,Italian Margherita Pizza,20,12,4,Easy,Italian,280,4.7,98
+45,Pesto Pasta with Cherry Tomatoes,15,10,3,Easy,Italian,320,4.3,54
+46,Hawaiian Chicken Skewers,20,15,4,Easy,Hawaiian,280,4.7,77
+47,Cucumber Avocado Rolls,20,0,3,Easy,Japanese,180,4.3,94
+48,Mediterranean Chickpea Salad,15,0,4,Easy,Mediterranean,220,4.7,70
+49,Pineapple Coconut Smoothie,10,0,2,Easy,Smoothie,200,4.4,45
